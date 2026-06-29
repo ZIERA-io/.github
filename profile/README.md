@@ -1,4 +1,4 @@
-# ✨ [ZIERA.IO]
+# ✨ ziera.io
 
 > **From "What if we simulate national data like this?" to "High-end enterprise solutions (MDM, CRM)."**
 > We are an open-source development lab exploring data possibilities and building impactful utilities. Anyone can join, and every idea is welcome!
@@ -13,10 +13,11 @@
 
 ## 🚀 Our Vision
 
-We don't start with grand, rigid plans. We start with pure curiosity: **"Hey, wouldn't it be cool if we built this?"** Our project spectrum is broad and flexible—ranging from imagination-driven simulations using national open data to robust, enterprise-grade business applications like MDM and CRM.
+We don't start with grand, rigid plans. We start with pure curiosity: **"Hey, wouldn't it be cool if we built this?"** At **ziera.io**, our project spectrum is broad and flexible—ranging from imagination-driven simulations using national open data to robust, enterprise-grade business applications like MDM and CRM.
 
 * 🙌 **Radically Open:** Whether you are a product manager, developer, designer, or data analyst—if you want to create something, you are our partner. No barriers to entry.
 * 💡 **Fast Pivoting & MVP:** We love proposing "What-if" hypotheses, building MVPs (Minimum Viable Products) rapidly, and validating them together.
+* 💰 **Shared Success (Profit Sharing):** We believe in sustainable open-source. **If any of our projects generate revenue or financial returns, the profits will be fairly shared with the contributors** who helped bring the project to life. We grow, build, and earn together!
 
 ---
 
@@ -44,16 +45,16 @@ We embrace modern, scalable stacks. Technologies vary by project, and you can al
 
 From casual passersby to core maintainers, everyone plays a vital role here. Hop in whenever and however you like!
 
-### 1. Join Issues & Discussions
-You don't need to write code to contribute! Share project ideas, feature requests, or interesting datasets in the **[Discussions]** tab.
+### 1. Brainstorm in Discussions 💬
+* Got a wild idea, a feature request, or an interesting thought? **Don't keep it to yourself—write it down in our [Discussions] tab!** Let’s gather around, brainstorm together, and solve complex problems as a team. Every single perspective matters.
 
-### 2. Code Contribution
+### 2. Code Contribution 💻
 1. `Fork` the repository of the project you're interested in.
 2. Create a new branch, make your changes, and submit a `Pull Request (PR)`.
 3. Once reviewed, your code will be merged into the main branch!
 
-### 3. Become a Core Member
-If you want to actively lead or maintain projects within this organization, feel free to reach out to the admin ([@YourUsername]) via DM or by opening an issue.
+### 3. Become a Core Member 👑
+* If you want to actively lead or maintain projects within **ziera.io**, feel free to reach out to the admin ([@YourUsername]) via DM or by opening an issue.
 
 ---
 
@@ -61,12 +62,12 @@ If you want to actively lead or maintain projects within this organization, feel
 
 Thank you to all the amazing people shaping this community! (Your profile will automatically appear here once your PR is merged.)
 
-<a href="https://github.com/[OrgName]/[RepoName]/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=[OrgName]/[RepoName]" />
+<a href="https://github.com/ziera-io/[RepoName]/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ziera-io/[RepoName]" />
 </a>
 
 ---
 
 ## 📜 License
 
-Projects under this organization are licensed under the **MIT License**. Feel free to use, modify, and distribute them, even commercially.
+Projects under **ziera.io** are licensed under the **MIT License**. Feel free to use, modify, and distribute them, even commercially.
